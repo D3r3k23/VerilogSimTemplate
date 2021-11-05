@@ -9,10 +9,9 @@ module hello;
     reg A, B;
     wire F;
 
-    assign F = A & B;
+    and2 CUT ( .A(A), .B(B), .F(F) );
 
     integer i;
-
     initial begin
         $display("Hello");
 
