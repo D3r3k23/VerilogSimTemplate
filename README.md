@@ -1,8 +1,8 @@
 # Icarus Verilog Template
 
-* Contains scripts to compile using iVerilog, run simulation with VVP, and open waveform with GTKWave
+* Contains scripts to compile with iVerilog, run simulation using iVerilog's VVP, and open the output waveform in GTKWave
 * Set up for Windows
-* Requires iVerilog and GTKWave installed and added to path
+* Requires iVerilog and GTKWave to be installed and added to path
 
 ## Example commands:
 ```
