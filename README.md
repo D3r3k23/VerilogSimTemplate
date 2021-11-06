@@ -6,7 +6,7 @@
 
 ## Example commands:
 ```
-scripts\compile.bat hello
-scripts\run_sim.bat hello
-scripts\wave.bat hello
+> scripts\compile.bat hello
+> scripts\run_sim.bat hello
+> scripts\wave.bat hello
 ```
