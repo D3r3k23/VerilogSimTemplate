@@ -1,3 +1,3 @@
 @echo OFF
 
-del /q sim\*
+del /s /q sim\*
