@@ -1,3 +1,3 @@
 @echo OFF
 
-del /s /q sim\*
+rmdir /s /q sim
